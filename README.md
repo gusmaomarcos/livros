@@ -1,1 +1,2 @@
-# handson_ml3
+# Livros
+repo com pedaços de código feitos enquanto estudava diferentes livros.
